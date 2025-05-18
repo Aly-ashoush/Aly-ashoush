@@ -5,7 +5,7 @@
 
 # Hey there! I'm Aly 👋
 
-🧠 **Software Engineer** | 🎬 **VFX Pipeline Enthusiast** | 🛠️ **Tech Explorer**
+🧠 **Data Scientist Engineer** | 🎬 **VFX Pipeline Enthusiast** | 🛠️ **Tech Explorer**
 
 ---
 
@@ -19,7 +19,7 @@ I'm also into tools like **PySide**, **MongoDB**, and more.
 
 ✨ Whether it's building a desktop tool or a web API, I love solving real-world problems with clean, efficient code.
 
-📩 Feel free to email me at [alyashoush@gmail.com](mailto:alyashoush@gmail.com) — I'll reply as soon as I can!
+📩 Feel free to email me at [alyashoush@gmail.com](mailto:aly.ashoush@hotmailmail.com) — I'll reply as soon as I can!
 
 ---
 
@@ -68,7 +68,7 @@ I'm also into tools like **PySide**, **MongoDB**, and more.
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
-- ✉️ [Email](mailto:alyashoush@gmail.com)
+- ✉️ [Email](mailto:aly.ashoush@hotmail.com)
 
 ---
 
