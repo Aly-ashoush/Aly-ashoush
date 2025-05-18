@@ -74,7 +74,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ---
 
 ## 📫 Let's Connect:
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aly-ashoush-595b43231/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
 - ✉️ [Email](mailto:aly.ashoush@hotmail.com)
 
