@@ -75,17 +75,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ## ⏳ إحصائيات WakaTime
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-## 🔥 إحصائيات المتابعة
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aly-ashoush&theme=radical)](https://git.io/streak-stats)
-
-## 📈 خريطة المساهمات
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Aly-ashoush&theme=radical)
-
-## 🏆 الجوائز
-![trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=radical)
 
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
