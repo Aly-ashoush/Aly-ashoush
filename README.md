@@ -5,21 +5,23 @@
 
 # Hey there! I'm Aly 👋
 
-🧠 **Data Scientist Engineer** | 🎬 **VFX Pipeline Enthusiast** | 🛠️ **Tech Explorer**
+🧠 **Data Scientist Engineer** | 📈 **AI & Data Enthusiast**  | 🛠️ **Tech Explorer**
 
 ---
 
 ## 👨‍💻 About Me:
 
-Hey! I'm Aly – a curious developer and toolmaker working behind the scenes to support teams and creatives.  
-I enjoy building smart tools and automations that make life easier and creativity smoother!
 
-🔧 I work with a variety of tech — from DCC tools to frameworks like **FastAPI**, **React**, and **Django**.  
-I'm also into tools like **PySide**, **MongoDB**, and more.
+Hey! I'm Aly – a curious Data Scientist with a passion for turning data into actionable insights.
+I enjoy exploring data, building models, and creating smart solutions that support teams and drive better decisions!
 
-✨ Whether it's building a desktop tool or a web API, I love solving real-world problems with clean, efficient code.
+📊 I work with a variety of tools — from Python, Pandas, and Scikit-learn to frameworks like FastAPI.
+I'm also into data visualization, Streamlit, and working with machine learning and deep learning models.
 
-📩 Feel free to email me at [alyashoush@gmail.com](mailto:aly.ashoush@hotmailmail.com) — I'll reply as soon as I can!
+✨ Whether it's analyzing large datasets or deploying ML models , I love solving real-world problems with clean, efficient, and data-driven solutions.
+
+
+📩 Feel free to email me at [aly.ashoush@hotmail.com](mailto:aly.ashoush@hotmail.com) — I'll reply as soon as I can!
 
 ---
 
@@ -66,7 +68,7 @@ I'm also into tools like **PySide**, **MongoDB**, and more.
 ---
 
 ## 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aly-ashoush-595b43231/))
 - 💻 [GitHub](https://github.com/Aly-ashoush)
 - ✉️ [Email](mailto:aly.ashoush@hotmail.com)
 
