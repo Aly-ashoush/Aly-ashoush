@@ -27,36 +27,30 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ## 🧰 Tech Stack:
 
-### 💻 Languages & Frameworks:
+### 💻 Languages:
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
 
-### 🌐 Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+### 📚 Frameworks & Libraries:
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
 
 ### 🛢️ Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
 ### 🛠 Tools:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-
-### 💻 OS & CLI:
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![UiPath](https://img.shields.io/badge/-UiPath%20Studio-05122A?style=flat&logo=uipath)
 
 ---
 
