@@ -25,6 +25,10 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ---
 
+<table>
+  <tr>
+    <td width="60%">
+    
 ## 🧰 Tech Stack:
 
 ### 💻 Languages:
@@ -51,6 +55,14 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 ![UiPath](https://img.shields.io/badge/-UiPath%20Studio-05122A?style=flat&logo=uipath)
+
+  </td>
+  <td width="40%">
+    <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech GIF" width="100%">
+  </td>
+  </tr>
+</table>
+
 
 ---
 
