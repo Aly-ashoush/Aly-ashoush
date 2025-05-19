@@ -63,17 +63,39 @@ I'm also into data visualization, Streamlit, and working with machine learning a
   </tr>
 </table>
 
+---
+<h1 align="center">Hey there 👋, I'm Aly Ashoush</h1>
+---
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-username/)
+[![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@your-id)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username)
 
 ---
 
-## 📊 GitHub Stats:
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=radical)
+![Aly-ashoush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=tokyonight)
 
 ---
 
-## ⏳ إحصائيات WakaTime
+## 🧠 Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode?theme=dark&font=baloo&ext=heatmap)
+
+---
+
+## ⏱️ WakaTime Metrics
+
+![Metrics](https://github.com/Aly-ashoush/Aly-ashoush/blob/main/github-metrics.svg)
+
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
