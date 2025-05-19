@@ -65,8 +65,8 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ---
 <h1 align="center">Hey there 👋, I'm Aly Ashoush</h1>
----
-## 🌐 Connect With Me
+
+### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-ashoush-595b43231)
