@@ -69,9 +69,9 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ## 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-username/)
-[![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@your-id)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-ashoush-595b43231)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aly-ashoush/)
+[![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@3fef8196-3a91-4bff-bb92-2844ebb1bd20)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username)
 
 ---
@@ -87,6 +87,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ---
 
 ## 🧠 Leetcode Stats
+<img src="https://leetcard.jacoblin.cool/aly-ashoush?theme=dark&font=JetBrains%20Mono" width="400"/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode?theme=dark&font=baloo&ext=heatmap)
 
