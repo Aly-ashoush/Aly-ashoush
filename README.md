@@ -68,7 +68,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ### 🌐 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aly.ashoush@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-ashoush-595b43231)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aly-ashoush/)
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@3fef8196-3a91-4bff-bb92-2844ebb1bd20)
