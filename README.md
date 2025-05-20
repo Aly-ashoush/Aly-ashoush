@@ -89,8 +89,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ## 🧠 Leetcode Stats
 <img src="https://leetcard.jacoblin.cool/aly_ashoush?theme=dark&font=JetBrains%20Mono" width="400"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode?theme=dark&font=baloo&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=dark&font=baloo&ext=heatmap)
 ---
 
 ## ⏱️ WakaTime Metrics
