@@ -123,4 +123,4 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 [![Aly-ashoush's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aly-ashoush&theme=tokyonight)](https://wakatime.com/@Aly-ashoush)
 
 <!-- أو إذا كنت تريدها كمخطط دائري -->
-[![Aly-ashoush's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aly-ashoush&layout=compact&theme=tokyonight)](https://wakatime.com/@Aly-ashoush)
+[![Aly-ashoush's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aly-ashoush&layout=compact&theme=tokyonight)](https://wakatime.com/@ashoush)
