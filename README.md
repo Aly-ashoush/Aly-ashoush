@@ -104,5 +104,13 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ![WakaTime Stats](https://wakatime.com/share/@ashoush/f2f77b33-44fe-465e-bbc5-8af72674c96c.svg)
 
 ---
+# 🐍 Code Eater  
 
+```text
+  [ WakaTime Snack Machine ]  
+   ░░░░░░░░░░░░░░░░░░░░░░░  
+  >(🌮🍣🍕)> 653 hrs consumed!  
+```
+
+[![Progress](https://img.shields.io/badge/Nom_Count-653_hrs-green)]()
 *Made with ❤️ by Aly.*
