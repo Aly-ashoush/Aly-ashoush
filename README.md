@@ -89,6 +89,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ## 🧠 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=dark&font=baloo&ext=heatmap)
 ---
+![Trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=onedark)
 
 ## ⏱️ WakaTime Metrics
 
