@@ -101,6 +101,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ---
 ![WakaTime Stats](https://wakatime.com/share/@ashoush/f2f77b33-44fe-465e-bbc5-8af72674c96c.svg)
-
 ---
+![Snake animation](https://github.com/Aly-ashoush/Aly-ashoush/blob/output/github-contribution-grid-snake.svg)
 *Made with ❤️ by Aly.*
