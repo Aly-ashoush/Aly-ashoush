@@ -1,6 +1,7 @@
 <!-- شارات -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Aly-ashoush&color=green)
-[![wakatime](https://wakatime.com/badge/user/3dbf412b-1deb-4a90-8aa2-ae7609a93f90.svg)](https://wakatime.com/@ashoush)
+![WakaTime](https://wakatime.com/share/@Aly-ashoush/abcd1234.svg)
+[![wakatime](https://wakatime.com/badge/user/3dbf412b-1deb-4a90-8aa2-ae7609a93f90.svg)](https://wakatime.com/@Aly-ashoush)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 # Hey there! I'm Aly 👋
