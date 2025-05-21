@@ -94,8 +94,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ## ⏱️ WakaTime Metrics
 
-![Metrics](https://github.com/Aly-ashoush/Aly-ashoush/blob/main/github-metrics.svg)
-
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
