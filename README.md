@@ -107,20 +107,3 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ![Snake animation](https://github.com/Aly-ashoush/Aly-ashoush/blob/output/github-contribution-grid-snake.svg)
 ---
 *Made with ❤️ by Aly.*
----
-## 📊 GitHub Stats
-
-![Aly-ashoush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=tokyonight)
-
----
-
-### ⏳ WakaTime (Last 7 Days)
-<!-- Add WakaTime Stats (Automated) -->
-[![Aly-ashoush's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aly-ashoush&theme=tokyonight)](https://wakatime.com/@Aly-ashoush)
-
-<!-- أو إذا كنت تريدها كمخطط دائري -->
-[![Aly-ashoush's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aly-ashoush&layout=compact&theme=tokyonight)](https://wakatime.com/@ashoush)
