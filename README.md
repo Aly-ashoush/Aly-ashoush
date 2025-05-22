@@ -93,7 +93,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=onedark)
 
 ## ⏱️ WakaTime Metrics
-[![إWakaTime](https://github.com/Aly-ashoush/Aly-ashoush/blob/main/github-metrics.svg)](https://github.com/Aly-ashoush)
+  [![إWakaTime](https://github.com/Aly-ashoush/Aly-ashoush/blob/main/github-metrics.svg)](https://github.com/Aly-ashoush)        
 
 ---
 ## 📫 Let's Connect:
