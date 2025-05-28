@@ -5,7 +5,7 @@
 
 # Hey there! I'm Aly 👋
 
-🧠 **Data Scientist Engineer** | 📈 **AI & Data  Enthusiast**  | 🛠️ **Tech Explorer**
+🧠 **Data Scientist Engineer** | 📈 **AI & Data   Enthusiast**  | 🛠️ **Tech Explorer**
 
 ---
 
@@ -102,9 +102,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
 - ✉️ [Email](mailto:aly.ashoush@hotmail.com)
-
----
-![WakaTime Stats](https://wakatime.com/share/@ashoush/f2f77b33-44fe-465e-bbc5-8af72674c96c.svg)
 ---
 ![Snake animation](https://github.com/Aly-ashoush/Aly-ashoush/blob/output/github-contribution-grid-snake.svg)
 ---
