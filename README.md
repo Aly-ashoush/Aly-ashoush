@@ -5,7 +5,7 @@
 
 # Hey there! I'm Aly 👋
 
-🧠 **Data Scientist Engineer** | 📈 **AI & Data   Enthusiast**  | 🛠️ **Tech Explorer**
+🧠 **Data Scientist Engineer** | 📈 **AI & Data Enthusiast**  | 🛠️ **Tech Explorer**
 
 ---
 
