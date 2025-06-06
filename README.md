@@ -25,7 +25,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ---
 
-<table>
+<table> 
   <tr>
     <td width="60%">
     
