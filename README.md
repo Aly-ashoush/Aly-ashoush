@@ -108,15 +108,15 @@ I'm also into data visualization, Streamlit, and working with machine learning a
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=dracula" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashoush&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashoush&layout=compact&theme=dracula" alt="WakaTime Stats" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=dracula" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&hide_title=true&theme=dracula" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
