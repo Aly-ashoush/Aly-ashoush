@@ -105,18 +105,18 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=dracula" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=chartreuse-dark" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashoush&layout=compact&theme=dracula" alt="WakaTime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashoush&layout=compact&theme=chartreuse-dark" alt="WakaTime Stats" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=dracula" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&hide_title=true&theme=dracula" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&hide_title=true&theme=chartreuse-dark" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
