@@ -99,8 +99,8 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 ---
 
-## 🧠 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=dark&font=baloo&ext=heatmap)
+## <h2 align="center"> 🧠 Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=radical&font=Akaya%20Kanadaka&ext=heatmap)
 ---
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=onedark)
 ---
@@ -110,5 +110,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 - ✉️ [Email](mailto:aly.ashoush@hotmail.com)
 ---
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 *Made with ❤️ by Aly.*
