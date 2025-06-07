@@ -93,14 +93,12 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=dark&font=baloo&ext=heatmap)
 ---
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=onedark)
-
 ---
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
 - ✉️ [Email](mailto:aly.ashoush@hotmail.com)
 ---
-![Snake animation](https://github.com/Aly-ashoush/Aly-ashoush/blob/output/github-contribution-grid-snake.svg)
----
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+---
 *Made with ❤️ by Aly.*
