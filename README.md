@@ -78,6 +78,47 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 
 ---
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaber1&theme=dark" alt="GitHub Streak" />
+<!--     [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimsaber1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) --> 
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimsaber1&layout=compact&theme=dark" alt="WakaTime Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsaber1&layout=compact&hide=html,css,jupyter%20notebook&theme=dark" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsaber1&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>  
+---
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
