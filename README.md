@@ -105,7 +105,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=dracula" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashoush&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
