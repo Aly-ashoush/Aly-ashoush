@@ -94,9 +94,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ---
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=onedark)
 
-## ⏱️ WakaTime Metrics
-  [![إWakaTime](https://github.com/Aly-ashoush/Aly-ashoush/blob/main/github-metrics.svg)](https://github.com/Aly-ashoush)        
-
 ---
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
@@ -105,4 +102,5 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ---
 ![Snake animation](https://github.com/Aly-ashoush/Aly-ashoush/blob/output/github-contribution-grid-snake.svg)
 ---
+![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 *Made with ❤️ by Aly.*
