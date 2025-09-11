@@ -23,7 +23,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 
 📩 Feel free to email me at [aly.ashoush@hotmail.com](mailto:aly.ashoush@hotmail.com) — I'll reply as soon as I can!
 
----
+-----
 
 <table> 
   <tr>
