@@ -97,7 +97,7 @@ I'm also into data visualization, Streamlit, and working with machine learning a
   </tr>
 </table>
 
-------
+-----------
 
 ## <h2 align="center"> 🧠 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=radical&font=Akaya%20Kanadaka&ext=heatmap)
