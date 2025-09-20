@@ -1370,8 +1370,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.766956049918611 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">31</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.856212696690179 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">32</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3686</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1388,8 +1388,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.17153284671532848 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.34306569343065696 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">2</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1918</text>
                                 </svg>
                                 <span class="title">Medium</span>
