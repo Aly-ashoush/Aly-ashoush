@@ -28,33 +28,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 <table> 
   <tr>
     <td width="60%">
-    
-## 🧰 Tech Stack:
-
-### 💻 Languages:
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-
-### 📚 Frameworks & Libraries:
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
-
-### 🛢️ Databases:
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-
-### 🛠 Tools:
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-![UiPath](https://img.shields.io/badge/-UiPath%20Studio-05122A?style=flat&logo=uipath)
 
   </td>
   <td width="40%">
