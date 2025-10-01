@@ -24,19 +24,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 📩 Feel free to email me at [aly.ashoush@hotmail.com](mailto:aly.ashoush@hotmail.com) — I'll reply as soon as I can!
 
 -----
-
-<table> 
-  <tr>
-    <td width="60%">
-
-  </td>
-  <td width="40%">
-    <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech GIF" width="100%">
-  </td>
-  </tr>
-</table>
-
----
 <h1 align="center">Hey there 👋, I'm Aly Ashoush</h1>
 
 ### 🌐 Connect With Me
