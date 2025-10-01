@@ -8,24 +8,7 @@
 🧠 **Data Scientist Engineer** | 📈 **AI & Data Enthusiast**  | 🛠️ **Tech Explorer**
 
 ---
-
-## 👨‍💻 About Me:
-
-
-Hey! I'm Aly – a curious Data Scientist with a passion for turning data into actionable insights.
-I enjoy exploring data, building models, and creating smart solutions that support teams and drive better decisions!
-
-📊 I work with a variety of tools — from Python, Pandas, and Scikit-learn to frameworks like FastAPI.
-I'm also into data visualization, Streamlit, and working with machine learning and deep learning models.
-
-✨ Whether it's analyzing large datasets or deploying ML models , I love solving real-world problems with clean, efficient, and data-driven solutions.
-
-
 📩 Feel free to email me at [aly.ashoush@hotmail.com](mailto:aly.ashoush@hotmail.com) — I'll reply as soon as I can!
-
------
-<h1 align="center">Hey there 👋, I'm Aly Ashoush</h1>
-
 ### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aly.ashoush@hotmail.com)
