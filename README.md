@@ -3,8 +3,6 @@
 [![wakatime](https://wakatime.com/badge/user/3fef8196-3a91-4bff-bb92-2844ebb1bd20/project/242c6e2d-eb5e-48aa-bb60-ab338cf3f4fb.svg)](https://wakatime.com/badge/user/3fef8196-3a91-4bff-bb92-2844ebb1bd20/project/242c6e2d-eb5e-48aa-bb60-ab338cf3f4fb)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-# Hey there! I'm Aly 👋
-
 🧠 **Data Scientist Engineer** | 📈 **AI & Data Enthusiast**  | 🛠️ **Tech Explorer**
 
 ---
@@ -18,10 +16,6 @@
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@3fef8196-3a91-4bff-bb92-2844ebb1bd20)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/alyashoush) 
 -----------
-
-## <h2 align="center"> 🧠 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=radical&font=Akaya%20Kanadaka&ext=heatmap)
----
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
