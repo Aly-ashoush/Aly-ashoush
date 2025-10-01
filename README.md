@@ -16,8 +16,4 @@
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@3fef8196-3a91-4bff-bb92-2844ebb1bd20)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/alyashoush) 
 -----------
-## 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
-- 💻 [GitHub](https://github.com/Aly-ashoush)
-- ✉️ [Email](mailto:aly.ashoush@hotmail.com)
 
