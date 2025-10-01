@@ -74,29 +74,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/aly_ashoush/)
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@3fef8196-3a91-4bff-bb92-2844ebb1bd20)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/alyashoush) 
-
----
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-ashoush&theme=chartreuse-dark" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashoush&layout=compact&theme=chartreuse-dark" alt="WakaTime Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-ashoush&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aly-ashoush&show_icons=true&hide_title=true&theme=chartreuse-dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
 -----------
 
 ## <h2 align="center"> 🧠 Leetcode Stats
