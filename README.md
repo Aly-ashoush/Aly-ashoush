@@ -39,8 +39,6 @@ I'm also into data visualization, Streamlit, and working with machine learning a
 ## <h2 align="center"> 🧠 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aly_ashoush?theme=radical&font=Akaya%20Kanadaka&ext=heatmap)
 ---
-![Trophy](https://github-profile-trophy.vercel.app/?username=Aly-ashoush&theme=onedark)
----
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aly-ashoush-595b43231)
 - 💻 [GitHub](https://github.com/Aly-ashoush)
