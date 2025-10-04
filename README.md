@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🧠 <b>Data Scientist Engineer</b> | 📈 <b>AI & Automation </b> | 🛠️ <b>RPA Developer</b>
+  🧠 <b>Data Scientist </b> | 📈 <b>AI & Automation </b> | 🛠️ <b>RPA Developer</b>
 </p>
 
 <p align="center">
